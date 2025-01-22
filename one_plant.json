@@ -1,0 +1,26 @@
+[
+  {
+    "page_item_url": "/store-1",
+    "data": {
+      "store_name": "DT LA - Store 1 DEMO",
+      "store_license_number": "C10-BLAZESALES1-LIC",
+      "store_address": "728 Commercial St, Los Angeles, CA, US, 90012",
+      "store_url": "https://blaze-sales.grass.menu/store-1/",
+      "store_image": "https://tymber-s3.imgix.net/stiiizy-store-1-1166/store-configuration/95fc958a-1cd1-4935-a5ba-d400a8998150.png?s=b89d3120c45beeb27ee81f699dd4355c",
+      "store_id": "1149",
+      "store_uuid": "9df00526-e984-4474-b3b2-6e88cecc9632"
+    }
+  },
+  {
+    "page_item_url": "/store-2",
+    "data": {
+      "store_name": "Inland Empire - Store 2 DEMO",
+      "store_license_number": "C9-0023423",
+      "store_address": "420 Island St, San Bernardino, CA, US, 92408",
+      "store_url": "https://blaze-sales.grass.menu/store-2/",
+      "store_image": "https://tymber-s3.imgix.net/stiiizy-store-2-1217/store-configuration/4a5b51c8-8ec0-48f1-b862-3609fae35252.png?s=2d16f1510d3f07576224ca6037019e26",
+      "store_id": "1199",
+      "store_uuid": "a9e4432c-42be-4fdb-9c4b-1f18eb5d65a8"
+    }
+  }
+]
