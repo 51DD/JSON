@@ -1,26 +1,32 @@
 [
   {
-    "page_item_url": "/store-1",
+    "page_item_url": "antioch",
     "data": {
-      "store_name": "DT LA - Store 1 DEMO",
-      "store_license_number": "C10-BLAZESALES1-LIC",
-      "store_address": "728 Commercial St, Los Angeles, CA, US, 90012",
-      "store_url": "https://blaze-sales.grass.menu/store-1/",
-      "store_image": "https://tymber-s3.imgix.net/stiiizy-store-1-1166/store-configuration/95fc958a-1cd1-4935-a5ba-d400a8998150.png?s=b89d3120c45beeb27ee81f699dd4355c",
-      "store_id": "1149",
-      "store_uuid": "9df00526-e984-4474-b3b2-6e88cecc9632"
+      "store_name": "ANTIOCH",
+      "store_license_number": "C10-00000648-LIC",
+      "store_address": "2701 West 10th St, Antioch, CA, US, 94509",
+      "store_url": "https://one-plant.grass.menu/antioch/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-antioch-1953/store-configuration/1b99b1e6-d537-4c0b-8635-df751cbdd475.png?s=6ce2b61c8f4d7117ababfa906b44ee41",
+      "store_id": "1953",
+      "store_support_email": "antioch@oneplant.life",
+      "store_support_phone": "+1 xxx xxx xxxx",
+      "store_hours": "<p><span>Mon</span> 8AM TO 8PM</p><p><span>Tue</span> 8AM TO 8PM</p><p><span>Wed</span> Closed</p><p><span>Thu</span> 8AM TO 8PM</p><p><span>Fri</span> 8AM TO 8PM</p><p><span>Sat</span> 8AM TO 2PM</p><p><span>Sun</span> 8AM TO 8PM</p>",
+      "store_uuid": "63d14a84-ec2a-4283-af04-4323890fec82"
     }
   },
   {
-    "page_item_url": "/store-2",
+    "page_item_url": "atwater",
     "data": {
-      "store_name": "Inland Empire - Store 2 DEMO",
-      "store_license_number": "C9-0023423",
-      "store_address": "420 Island St, San Bernardino, CA, US, 92408",
-      "store_url": "https://blaze-sales.grass.menu/store-2/",
-      "store_image": "https://tymber-s3.imgix.net/stiiizy-store-2-1217/store-configuration/4a5b51c8-8ec0-48f1-b862-3609fae35252.png?s=2d16f1510d3f07576224ca6037019e26",
-      "store_id": "1199",
-      "store_uuid": "a9e4432c-42be-4fdb-9c4b-1f18eb5d65a8"
+      "store_name": "ATWATER",
+      "store_license_number": "C10-0000601-LIC",
+      "store_address": "261 Business Park Way, Atwater, CA, US, 95301",
+      "store_url": "https://one-plant.grass.menu/atwater/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-atwater-1954/store-configuration/4ee1e40d-44a6-4492-af4a-3758b9ee16e7.png?s=c6fb342e3e81d708b4ed33b0c7c45f18",
+      "store_id": "1954",
+      "store_support_email": "atwater@oneplant.life",
+      "store_support_phone": "+1 xxx xxx xxxx",
+      "store_hours": "<p><span>Mon</span> 8AM TO 8PM</p><p><span>Tue</span> 8AM TO 8PM</p><p><span>Wed</span> Closed</p><p><span>Thu</span> 8AM TO 8PM</p><p><span>Fri</span> 8AM TO 8PM</p><p><span>Sat</span> 8AM TO 2PM</p><p><span>Sun</span> 8AM TO 8PM</p>",
+      "store_uuid": "b6dd0159-3138-43a5-9a1f-5e1e24eb2612"
     }
   }
 ]
