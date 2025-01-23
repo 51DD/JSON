@@ -1,5 +1,20 @@
 [
   {
+    "page_item_url": "castroville",
+    "data": {
+      "store_name": "CASTROVILLE",
+      "store_license_number": "C10-0000149-LIC",
+      "store_address": "10665 Merritt Street, Castroville, CA, US, 95012 ",
+      "store_url": "https://one-plant.grass.menu/castroville/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-castroville-1952/store-configuration/8d834aeb-2707-4b52-be60-5a21c8a77163.png?s=0445bf946328b69cd70077b2a992cb0c",
+      "store_id": "1952",
+      "store_support_email": "castroville@oneplant.life",
+      "store_support_phone": "831-453-7180",
+      "store_hours": "<p><span>Monday</span> 8AM TO 8PM</p><p><span>Tuesday</span> 8AM TO 8PM</p><p><span>Wednesday</span> Closed</p><p><span>Thursday</span> 8AM TO 8PM</p><p><span>Friday</span> 8AM TO 8PM</p><p><span>Saturday</span> 8AM TO 2PM</p><p><span>Sunday</span> 8AM TO 8PM</p>",
+      "store_uuid": "46b68dfb-99e9-4568-93d8-4fc92a139213"
+    }
+  },
+  {
     "page_item_url": "antioch",
     "data": {
       "store_name": "ANTIOCH",
@@ -9,7 +24,7 @@
       "store_image": "https://tymber-s3.imgix.net/one-plant-antioch-1953/store-configuration/1b99b1e6-d537-4c0b-8635-df751cbdd475.png?s=6ce2b61c8f4d7117ababfa906b44ee41",
       "store_id": "1953",
       "store_support_email": "antioch@oneplant.life",
-      "store_support_phone": "+1 xxx xxx xxxx",
+      "store_support_phone": "925-339-7475",
       "store_hours": "<p><span>Mon</span> 8AM TO 8PM</p><p><span>Tue</span> 8AM TO 8PM</p><p><span>Wed</span> Closed</p><p><span>Thu</span> 8AM TO 8PM</p><p><span>Fri</span> 8AM TO 8PM</p><p><span>Sat</span> 8AM TO 2PM</p><p><span>Sun</span> 8AM TO 8PM</p>",
       "store_uuid": "63d14a84-ec2a-4283-af04-4323890fec82"
     }
@@ -24,9 +39,69 @@
       "store_image": "https://tymber-s3.imgix.net/one-plant-atwater-1954/store-configuration/4ee1e40d-44a6-4492-af4a-3758b9ee16e7.png?s=c6fb342e3e81d708b4ed33b0c7c45f18",
       "store_id": "1954",
       "store_support_email": "atwater@oneplant.life",
-      "store_support_phone": "+1 xxx xxx xxxx",
-      "store_hours": "<p><span>Mon</span> 8AM TO 8PM</p><p><span>Tue</span> 8AM TO 8PM</p><p><span>Wed</span> Closed</p><p><span>Thu</span> 8AM TO 8PM</p><p><span>Fri</span> 8AM TO 8PM</p><p><span>Sat</span> 8AM TO 2PM</p><p><span>Sun</span> 8AM TO 8PM</p>",
+      "store_support_phone": "209-676-2438",
+      "store_hours": "<p><span>Monday</span> 8AM TO 8PM</p><p><span>Tuesday</span> 8AM TO 8PM</p><p><span>Wednesday</span> Closed</p><p><span>Thursday</span> 8AM TO 8PM</p><p><span>Friday</span> 8AM TO 8PM</p><p><span>Saturday</span> 8AM TO 2PM</p><p><span>Sunday</span> 8AM TO 8PM</p>",
       "store_uuid": "b6dd0159-3138-43a5-9a1f-5e1e24eb2612"
+    }
+  },
+  {
+    "page_item_url": "goleta",
+    "data": {
+      "store_name": "GOLETA",
+      "store_license_number": "C10-0000813-LIC",
+      "store_address": "290 Storke Rd Ste G, Goleta, CA, US, 93117 ",
+      "store_url": "https://one-plant.grass.menu/goleta/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-goleta-1955/store-configuration/4cc49f3f-2706-43e6-b31c-9e276b53e5a7.png?s=96b26cab73fd61ae1afda7297472878a",
+      "store_id": "1955",
+      "store_support_email": "goleta@oneplant.life",
+      "store_support_phone": "805-770-3275",
+      "store_hours": "<p><span>Monday</span> 8AM TO 8PM</p><p><span>Tuesday</span> 8AM TO 8PM</p><p><span>Wednesday</span> Closed</p><p><span>Thursday</span> 8AM TO 8PM</p><p><span>Friday</span> 8AM TO 8PM</p><p><span>Saturday</span> 8AM TO 2PM</p><p><span>Sunday</span> 8AM TO 8PM</p>",
+      "store_uuid": "877a86b2-6e9f-4eb3-9c62-0adabca1ab1c"
+    }
+  },
+  {
+    "page_item_url": "lompoc",
+    "data": {
+      "store_name": "LOMPOC",
+      "store_license_number": "C10-0000556-LIC",
+      "store_address": "119 N. A St, Lompoc, CA, US, 93436 ",
+      "store_url": "https://one-plant.grass.menu/lompoc/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-lompoc-1956/store-configuration/8ef976eb-110a-4f6d-8742-1e0476ac4ae0.png?s=d8c8e57ccba0524a7958e58633148b0d",
+      "store_id": "1956",
+      "store_support_email": "lompoc@oneplant.life",
+      "store_support_phone": "805-741-7419",
+      "store_hours": "<p><span>Monday</span> 8AM TO 8PM</p><p><span>Tuesday</span> 8AM TO 8PM</p><p><span>Wednesday</span> Closed</p><p><span>Thursday</span> 8AM TO 8PM</p><p><span>Friday</span> 8AM TO 8PM</p><p><span>Saturday</span> 8AM TO 2PM</p><p><span>Sunday</span> 8AM TO 8PM</p>",
+      "store_uuid": "a663bb77-6a43-47c5-9581-8428de620cfa"
+    }
+  },
+  {
+    "page_item_url": "salinas",
+    "data": {
+      "store_name": "SALINAS",
+      "store_license_number": "C10-0000628-LIC",
+      "store_address": "10031 Reese Circle, Salinas, CA, US, 93907 ",
+      "store_url": "https://one-plant.grass.menu/salinas/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-salinas-1957/store-configuration/7dce6f7a-26f5-4e25-9117-6ce78c534b19.png?s=63f86f7bd927f2685d125aa23e751b8a",
+      "store_id": "1957",
+      "store_support_email": "salinas@oneplant.life",
+      "store_support_phone": "831-789-9111",
+      "store_hours": "<p><span>Monday</span> 8AM TO 8PM</p><p><span>Tuesday</span> 8AM TO 8PM</p><p><span>Wednesday</span> Closed</p><p><span>Thursday</span> 8AM TO 8PM</p><p><span>Friday</span> 8AM TO 8PM</p><p><span>Saturday</span> 8AM TO 2PM</p><p><span>Sunday</span> 8AM TO 8PM</p>",
+      "store_uuid": "4936d742-b1f7-4225-a33d-e584700ffbb5"
+    }
+  },
+  {
+    "page_item_url": "santa-cruz",
+    "data": {
+      "store_name": "SANTA CRUZ",
+      "store_license_number": "C10-0000325",
+      "store_address": "3088 Winkle Ave. Ste. C, Santa Cruz, CA, US, 95065 ",
+      "store_url": "https://one-plant.grass.menu/santa-cruz/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-santa-cruz-1958/store-configuration/0a0fe176-414f-4afa-a12b-563f683a1ad3.png?s=1c33e45f9b33f6a3d20bdc0f7e84cfd3",
+      "store_id": "1958",
+      "store_support_email": "santacruz@oneplant.life",
+      "store_support_phone": "831-475-5506",
+      "store_hours": "<p><span>Monday</span> 8AM TO 8PM</p><p><span>Tuesday</span> 8AM TO 8PM</p><p><span>Wednesday</span> Closed</p><p><span>Thursday</span> 8AM TO 8PM</p><p><span>Friday</span> 8AM TO 8PM</p><p><span>Saturday</span> 8AM TO 2PM</p><p><span>Sunday</span> 8AM TO 8PM</p>",
+      "store_uuid": "2eee816a-0ca7-4c56-b131-d1e22323c5f6"
     }
   }
 ]
