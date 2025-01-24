@@ -1,0 +1,17 @@
+[
+  {
+    "page_item_url": "castroville",
+    "data": {
+      "store_name": "Castroville",
+      "store_license_number": "C10-0000149-LIC",
+      "store_address": "10665 Merritt St. Castroville, CA, US, 95012 ",
+      "store_url": "https://one-plant-sandbox.grass.menu/weed-dispensary/store-pickup/california/castroville/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-sandbox-1865/store-configuration/5a1ae2eb-0775-44da-82f6-e0aeaee19660.png?s=f0aea8e0536929c838f18943f385913a",
+      "store_id": "1865",
+      "store_support_email": "info@oneplant.life",
+      "store_support_phone": "831-475-5506",
+      "store_hours": "<p><span>Monday</span> 8AM TO 8PM</p><p><span>Tuesday</span> 8AM TO 8PM</p><p><span>Wednesday</span> Closed</p><p><span>Thursday</span> 8AM TO 8PM</p><p><span>Friday</span> 8AM TO 8PM</p><p><span>Saturday</span> 8AM TO 2PM</p><p><span>Sunday</span> 8AM TO 8PM</p>",
+      "store_uuid": "3a73e368-d8bd-4176-8ec4-d3b354d9e9dd"
+    }
+  }
+]
