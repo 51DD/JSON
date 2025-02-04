@@ -15,51 +15,6 @@
     }
   },
   {
-    "page_item_url": "antioch",
-    "data": {
-      "store_name": "ANTIOCH",
-      "store_license_number": "C10-00000648-LIC",
-      "store_address": "2701 West 10th St, Antioch, CA, US, 94509",
-      "store_url": "https://one-plant.grass.menu/antioch/",
-      "store_image": "https://tymber-s3.imgix.net/one-plant-antioch-1953/store-configuration/1b99b1e6-d537-4c0b-8635-df751cbdd475.png?s=6ce2b61c8f4d7117ababfa906b44ee41",
-      "store_id": "1953",
-      "store_support_email": "antioch@oneplant.life",
-      "store_support_phone": "925-339-7475",
-      "store_hours": "<p><span>Monday</span> 8:00 AM - 8:00 PM</p><p><span>Tuesday</span> 8:00 AM - 8:00 PM</p><p><span>Wednesday</span> 8:00 AM - 8:00 PM</p><p><span>Thursday</span> 8:00 AM - 8:00 PM</p><p><span>Friday</span> 8:00 AM - 8:00 PM</p><p><span>Saturday</span> 8:00 AM - 8:00 PM</p><p><span>Sunday</span> 8:00 AM - 8:00 PM</p>",
-      "store_uuid": "63d14a84-ec2a-4283-af04-4323890fec82"
-    }
-  },
-  {
-    "page_item_url": "atwater",
-    "data": {
-      "store_name": "ATWATER",
-      "store_license_number": "C10-0000601-LIC",
-      "store_address": "261 Business Park Way, Atwater, CA, US, 95301",
-      "store_url": "https://one-plant.grass.menu/atwater/",
-      "store_image": "https://tymber-s3.imgix.net/one-plant-atwater-1954/store-configuration/4ee1e40d-44a6-4492-af4a-3758b9ee16e7.png?s=c6fb342e3e81d708b4ed33b0c7c45f18",
-      "store_id": "1954",
-      "store_support_email": "atwater@oneplant.life",
-      "store_support_phone": "209-676-2438",
-      "store_hours": "<p><span>Monday</span> 8:00 AM - 8:00 PM</p><p><span>Tuesday</span> 8:00 AM - 8:00 PM</p><p><span>Wednesday</span> 8:00 AM - 8:00 PM</p><p><span>Thursday</span> 8:00 AM - 8:00 PM</p><p><span>Friday</span> 8:00 AM - 8:00 PM</p><p><span>Saturday</span> 8:00 AM - 8:00 PM</p><p><span>Sunday</span> 8:00 AM - 8:00 PM</p>",
-      "store_uuid": "b6dd0159-3138-43a5-9a1f-5e1e24eb2612"
-    }
-  },
-  {
-    "page_item_url": "goleta",
-    "data": {
-      "store_name": "GOLETA",
-      "store_license_number": "C10-0000813-LIC",
-      "store_address": "290 Storke Rd Ste G, Goleta, CA, US, 93117 ",
-      "store_url": "https://one-plant.grass.menu/goleta/",
-      "store_image": "https://tymber-s3.imgix.net/one-plant-goleta-1955/store-configuration/4cc49f3f-2706-43e6-b31c-9e276b53e5a7.png?s=96b26cab73fd61ae1afda7297472878a",
-      "store_id": "1955",
-      "store_support_email": "goleta@oneplant.life",
-      "store_support_phone": "805-770-3275",
-      "store_hours": "<p><span>Monday</span> 8:00 AM - 8:00 PM</p><p><span>Tuesday</span> 8:00 AM - 8:00 PM</p><p><span>Wednesday</span> 8:00 AM - 8:00 PM</p><p><span>Thursday</span> 8:00 AM - 8:00 PM</p><p><span>Friday</span> 8:00 AM - 8:00 PM</p><p><span>Saturday</span> 8:00 AM - 8:00 PM</p><p><span>Sunday</span> 8:00 AM - 8:00 PM</p>",
-      "store_uuid": "877a86b2-6e9f-4eb3-9c62-0adabca1ab1c"
-    }
-  },
-  {
     "page_item_url": "lompoc",
     "data": {
       "store_name": "LOMPOC",
@@ -72,21 +27,6 @@
       "store_support_phone": "805-741-7419",
       "store_hours": "<p><span>Monday</span> 8:00 AM - 10:00 PM</p><p><span>Tuesday</span> 8:00 AM - 10:00 PM</p><p><span>Wednesday</span> 8:00 AM - 10:00 PM</p><p><span>Thursday</span> 8:00 AM - 10:00 PM</p><p><span>Friday</span> 8:00 AM - 10:00 PM</p><p><span>Saturday</span> 8:00 AM - 10:00 PM</p><p><span>Sunday</span> 8:00 AM - 10:00 PM</p>",
       "store_uuid": "a663bb77-6a43-47c5-9581-8428de620cfa"
-    }
-  },
-  {
-    "page_item_url": "salinas",
-    "data": {
-      "store_name": "SALINAS",
-      "store_license_number": "C10-0000628-LIC",
-      "store_address": "10031 Reese Circle, Salinas, CA, US, 93907 ",
-      "store_url": "https://one-plant.grass.menu/salinas/",
-      "store_image": "https://tymber-s3.imgix.net/one-plant-salinas-1957/store-configuration/7dce6f7a-26f5-4e25-9117-6ce78c534b19.png?s=63f86f7bd927f2685d125aa23e751b8a",
-      "store_id": "1957",
-      "store_support_email": "salinas@oneplant.life",
-      "store_support_phone": "831-789-9111",
-      "store_hours": "<p><span>Monday</span> 8:00 AM - 8:00 PM</p><p><span>Tuesday</span> 8:00 AM - 8:00 PM</p><p><span>Wednesday</span> 8:00 AM - 8:00 PM</p><p><span>Thursday</span> 8:00 AM - 8:00 PM</p><p><span>Friday</span> 8:00 AM - 8:00 PM</p><p><span>Saturday</span> 8:00 AM - 8:00 PM</p><p><span>Sunday</span> 8:00 AM - 8:00 PM</p>",
-      "store_uuid": "4936d742-b1f7-4225-a33d-e584700ffbb5"
     }
   },
   {
