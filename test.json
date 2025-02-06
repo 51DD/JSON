@@ -4,7 +4,7 @@
     "data": {
       "store_name": "CASTROVILLE",
       "store_license_number": "C10-0000149-LIC",
-      "store_address": "10665 Merritt Street, Castroville, CA, US, 95012 ",
+      "store_address": "10665 Merritt Street, Castroville, CA, US, 95012",
       "store_url": "https://one-plant.grass.menu/castroville/",
       "store_image": "https://tymber-s3.imgix.net/one-plant-castroville-1952/store-configuration/8d834aeb-2707-4b52-be60-5a21c8a77163.png?s=0445bf946328b69cd70077b2a992cb0c",
       "store_id": "1952",
@@ -19,7 +19,7 @@
     "data": {
       "store_name": "LOMPOC",
       "store_license_number": "C10-0000556-LIC",
-      "store_address": "119 N. A St, Lompoc, CA, US, 93436 ",
+      "store_address": "119 N A St, Lompoc, CA, US, 93436",
       "store_url": "https://one-plant.grass.menu/lompoc/",
       "store_image": "https://tymber-s3.imgix.net/one-plant-lompoc-1956/store-configuration/8ef976eb-110a-4f6d-8742-1e0476ac4ae0.png?s=d8c8e57ccba0524a7958e58633148b0d",
       "store_id": "1956",
@@ -34,7 +34,7 @@
     "data": {
       "store_name": "SANTA CRUZ",
       "store_license_number": "C10-0000325",
-      "store_address": "3088 Winkle Ave. Ste. C, Santa Cruz, CA, US, 95065 ",
+      "store_address": "3088 Winkle Ave Ste C, Santa Cruz, CA, US, 95065",
       "store_url": "https://one-plant.grass.menu/santa-cruz/",
       "store_image": "https://tymber-s3.imgix.net/one-plant-santa-cruz-1958/store-configuration/0a0fe176-414f-4afa-a12b-563f683a1ad3.png?s=1c33e45f9b33f6a3d20bdc0f7e84cfd3",
       "store_id": "1958",
