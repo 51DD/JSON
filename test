@@ -1,0 +1,65 @@
+[
+  {
+    "page_item_url": "castroville",
+    "data": {
+      "store_name": "CASTROVILLE",
+      "store_license_number": "C10-0000149-LIC",
+      "store_address":{
+        "streetAddress":"10665 Merritt Street",
+        "postalCode":"95012",
+        "region":"CA",
+        "city":"Castroville",
+        "country":"US"
+      },
+      "store_url": "https://one-plant.grass.menu/castroville/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-castroville-1952/store-configuration/8d834aeb-2707-4b52-be60-5a21c8a77163.png?s=0445bf946328b69cd70077b2a992cb0c",
+      "store_id": "1952",
+      "store_support_email": "castroville@oneplant.life",
+      "store_support_phone": "831-453-7180",
+      "store_hours": "<p><span>Monday</span> 8:00 AM - 8:00 PM</p><p><span>Tuesday</span> 8:00 AM - 8:00 PM</p><p><span>Wednesday</span> 8:00 AM - 8:00 PM</p><p><span>Thursday</span> 8:00 AM - 8:00 PM</p><p><span>Friday</span> 8:00 AM - 8:00 PM</p><p><span>Saturday</span> 8:00 AM - 8:00 PM</p><p><span>Sunday</span> 8:00 AM - 8:00 PM</p>",
+      "store_uuid": "46b68dfb-99e9-4568-93d8-4fc92a139213"
+    }
+  },
+  {
+    "page_item_url": "lompoc",
+    "data": {
+      "store_name": "LOMPOC",
+      "store_license_number": "C10-0000556-LIC",
+      "store_address":{
+        "streetAddress":"119 N. A St",
+        "postalCode":"93436",
+        "region":"CA",
+        "city":"Lompoc",
+        "country":"US"
+      },
+      "store_url": "https://one-plant.grass.menu/lompoc/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-lompoc-1956/store-configuration/8ef976eb-110a-4f6d-8742-1e0476ac4ae0.png?s=d8c8e57ccba0524a7958e58633148b0d",
+      "store_id": "1956",
+      "store_support_email": "lompoc@oneplant.life",
+      "store_support_phone": "805-741-7419",
+      "store_hours": "<p><span>Monday</span> 8:00 AM - 10:00 PM</p><p><span>Tuesday</span> 8:00 AM - 10:00 PM</p><p><span>Wednesday</span> 8:00 AM - 10:00 PM</p><p><span>Thursday</span> 8:00 AM - 10:00 PM</p><p><span>Friday</span> 8:00 AM - 10:00 PM</p><p><span>Saturday</span> 8:00 AM - 10:00 PM</p><p><span>Sunday</span> 8:00 AM - 10:00 PM</p>",
+      "store_uuid": "a663bb77-6a43-47c5-9581-8428de620cfa"
+    }
+  },
+  {
+    "page_item_url": "santa-cruz",
+    "data": {
+      "store_name": "SANTA CRUZ",
+      "store_license_number": "C10-0000325",
+      "store_address":{
+        "streetAddress":"3088 Winkle Ave. Ste. C",
+        "postalCode":"95065",
+        "region":"CA",
+        "city":"Santa Cruz",
+        "country":"US"
+      },
+      "store_url": "https://one-plant.grass.menu/santa-cruz/",
+      "store_image": "https://tymber-s3.imgix.net/one-plant-santa-cruz-1958/store-configuration/0a0fe176-414f-4afa-a12b-563f683a1ad3.png?s=1c33e45f9b33f6a3d20bdc0f7e84cfd3",
+      "store_id": "1958",
+      "store_support_email": "santacruz@oneplant.life",
+      "store_support_phone": "831-475-5506",
+      "store_hours": "<p><span>Monday</span> 8:00 AM - 9:00 PM</p><p><span>Tuesday</span> 8:00 AM - 9:00 PM</p><p><span>Wednesday</span> 8:00 AM - 9:00 PM</p><p><span>Thursday</span> 8:00 AM - 9:00 PM</p><p><span>Friday</span> 8:00 AM - 9:00 PM</p><p><span>Saturday</span> 8:00 AM - 9:00 PM</p><p><span>Sunday</span> 8:00 AM - 9:00 PM</p>",
+      "store_uuid": "2eee816a-0ca7-4c56-b131-d1e22323c5f6"
+    }
+  }
+]
