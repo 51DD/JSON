@@ -11,7 +11,9 @@
       "store_support_email": "castroville@oneplant.life",
       "store_support_phone": "831-453-7180",
       "store_hours": "<p><span>Monday</span> 8:00 AM - 8:00 PM</p><p><span>Tuesday</span> 8:00 AM - 8:00 PM</p><p><span>Wednesday</span> 8:00 AM - 8:00 PM</p><p><span>Thursday</span> 8:00 AM - 8:00 PM</p><p><span>Friday</span> 8:00 AM - 8:00 PM</p><p><span>Saturday</span> 8:00 AM - 8:00 PM</p><p><span>Sunday</span> 8:00 AM - 8:00 PM</p>",
-      "store_uuid": "46b68dfb-99e9-4568-93d8-4fc92a139213"
+      "store_uuid": "46b68dfb-99e9-4568-93d8-4fc92a139213",
+      "allow_pickup": true,
+      "allow_deliveries": false
     }
   },
   {
@@ -26,7 +28,9 @@
       "store_support_email": "lompoc@oneplant.life",
       "store_support_phone": "805-741-7419",
       "store_hours": "<p><span>Monday</span> 8:00 AM - 10:00 PM</p><p><span>Tuesday</span> 8:00 AM - 10:00 PM</p><p><span>Wednesday</span> 8:00 AM - 10:00 PM</p><p><span>Thursday</span> 8:00 AM - 10:00 PM</p><p><span>Friday</span> 8:00 AM - 10:00 PM</p><p><span>Saturday</span> 8:00 AM - 10:00 PM</p><p><span>Sunday</span> 8:00 AM - 10:00 PM</p>",
-      "store_uuid": "a663bb77-6a43-47c5-9581-8428de620cfa"
+      "store_uuid": "a663bb77-6a43-47c5-9581-8428de620cfa",
+      "allow_pickup": true,
+      "allow_deliveries": true
     }
   },
   {
@@ -41,7 +45,9 @@
       "store_support_email": "santacruz@oneplant.life",
       "store_support_phone": "831-475-5506",
       "store_hours": "<p><span>Monday</span> 8:00 AM - 9:00 PM</p><p><span>Tuesday</span> 8:00 AM - 9:00 PM</p><p><span>Wednesday</span> 8:00 AM - 9:00 PM</p><p><span>Thursday</span> 8:00 AM - 9:00 PM</p><p><span>Friday</span> 8:00 AM - 9:00 PM</p><p><span>Saturday</span> 8:00 AM - 9:00 PM</p><p><span>Sunday</span> 8:00 AM - 9:00 PM</p>",
-      "store_uuid": "2eee816a-0ca7-4c56-b131-d1e22323c5f6"
+      "store_uuid": "2eee816a-0ca7-4c56-b131-d1e22323c5f6",
+      "allow_pickup": false,
+      "allow_deliveries": true
     }
   }
 ]
