@@ -1,0 +1,36 @@
+[
+{
+"page_item_url": "site-1",
+"data": {
+"store_name": "Staging - Blaze 1 & Test Staging",
+"store_license_number": "C00-0000000-TEST",
+"store_address": "Golden Gate Park 501 Stanyan St, Aurora, IL, US, 60506",
+"store_url": "https://staging.tymber.io/menu/site-1/",
+"store_image": "https://tymber-s3-qa.imgix.net/staging-tymber-shop-1-10/store-configuration/40cd8772-ec0e-45fd-bb0b-71e666385e25.png?s=a4453c608818bc23ec9e340274383168",
+"store_id": "10",
+"store_support_email": "engineering+stage-tmc-site-1@tymber.me",
+"store_support_phone": "000-000-0000",
+"store_hours": "<p><span>Monday</span> 8:00 AM - 8:00 PM</p><p><span>Tuesday</span> 8:00 AM - 8:00 PM</p><p><span>Wednesday</span> 8:00 AM - 8:00 PM</p><p><span>Thursday</span> 8:00 AM - 8:00 PM</p><p><span>Friday</span> 8:00 AM - 8:00 PM</p><p><span>Saturday</span> 8:00 AM - 8:00 PM</p><p><span>Sunday</span> 8:00 AM - 8:00 PM</p>",
+"store_uuid": "e87437f2-3e35-4738-af5e-6307e368255c",
+"allow_pickup": true,
+"allow_deliveries": true
+}
+},
+{
+"page_item_url": "site-2",
+"data": {
+"store_name": "Staging - Blaze 2",
+"store_license_number": "C00-0000000-TEST",
+"store_address": "456 Main Street, Toronto, ON, CA, 18723",
+"store_url": "https://staging.tymber.io/menu/site-2/",
+"store_image": "https://connect-files-public.s3.amazonaws.com/fa0e1fe5-54a2-4755-b609-ee60ba46cde5.png",
+"store_id": "11",
+"store_support_email": "engineering+stage-blase-site-2@tymber.me",
+"store_support_phone": "000-000-0000",
+"store_hours": "<p><span>Monday</span> 8:00 AM - 10:00 PM</p><p><span>Tuesday</span> 8:00 AM - 10:00 PM</p><p><span>Wednesday</span> 8:00 AM - 10:00 PM</p><p><span>Thursday</span> 8:00 AM - 10:00 PM</p><p><span>Friday</span> 8:00 AM - 10:00 PM</p><p><span>Saturday</span> 8:00 AM - 10:00 PM</p><p><span>Sunday</span> 8:00 AM - 10:00 PM</p>",
+"store_uuid": "7caa821d-4e45-421d-bcc1-c9a6a64b1faf",
+"allow_pickup": true,
+"allow_deliveries": true
+}
+}
+]
